@@ -1,5 +1,7 @@
 # scalatra_serv #
 
+Scalatra server simple app test
+
 ## Build & Run ##
 
 ```sh
